@@ -1,2 +1,2 @@
-Few Basic games and apps i developed using javascript.
-Some of them based on guides and some developed by myself.
+A few basic games and apps I developed using JavaScript.
+Some of them are based on guides, and some were developed by myself.
